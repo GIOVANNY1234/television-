@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1, ESPN
+
+http://stream/Deportes/ESPN_SUR/index.m3u8
+
+#EXTINF:-1, GEOGRAFÍA NACIONAL
+http://stream/Cultura/NATGEO/index.m3u8
+
+#EXTINF:-1, MÚSICA SUPERIOR
+http://stream/Paises/MUSICTOP_ARG/index.m3u8
+
+#EXTINF:-1, LATINO SUPERIOR
+http://stream/Peru/TOP_LATINO_TV/index.m3u8
