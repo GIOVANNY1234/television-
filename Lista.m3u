@@ -1,14 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN
+#EXTINF:-1 ,ESPN - Sur, group-title="DEPORTES",
+http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58iyccm51ZLF6jUqQnrveRBo/ts
 
-http://stream/Deportes/ESPN_SUR/index.m3u8
+#EXTINF:-1 ,ESPN 2 - Sur, group-title="DEPORTES",
+http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58kwp2DE1cLqQUKgB7-G52mU/ts
 
-#EXTINF:-1, GEOGRAFÍA NACIONAL
-http://stream/Cultura/NATGEO/index.m3u8
+#EXTINF:-1, ESPN 3-Sur, group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png", http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/61170
 
-#EXTINF:-1, MÚSICA SUPERIOR
-http://stream/Paises/MUSICTOP_ARG/index.m3u8
+#EXTINF:-1 ,ESPN 4 - Sur, group-title="DEPORTES ", http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58krlqFPpji6Vo_498udzYxc/ts
 
-#EXTINF:-1, LATINO SUPERIOR
-http://stream/Peru/TOP_LATINO_TV/index.m3u8
+#EXTINF:-1 ,ESPN Premium-Sur, group-title="DEPORTES",
+http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58kL54kyaui16f-1XSl2Tgoc/ts
+
+#EXTINF:-1, ESPN COLOMBIA, group-title="DEPORTES", tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9077abd6402f65b78b66f0a1fa79c0cd.png", 
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295642
+
+#EXTINF:-1, ESPN 3 COLOMBIA, group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0bc67a3ca3b778cea017d25060ac86cd.png",
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295641
+
+
+
+
+
